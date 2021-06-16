@@ -9,6 +9,10 @@ This is a simple Visual Studio API Project for the Belfast Met Microsoft Academy
 * A sqlite database was added, storeapps.db.
 * A scaffolding controller was added to handle HTTP requests.
 
+## Main files and folders
+Models and Controllers Folder.
+StoreAppsController.cs to modify the default API routes.
+
 ## What needs to be updated?
 
 * The Models and Controller will need updated to build a workable API.
