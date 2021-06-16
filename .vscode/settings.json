@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8d4d1037-a54c-43a5-b580-b0a1dbba940f/resourceGroups/Met-Apps/providers/Microsoft.Web/sites/BapApiSqlite",
+    "appService.deploySubpath": "publish"
+}
