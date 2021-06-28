@@ -432,7 +432,6 @@ C:\Users\User\source\repos\SimApi\BapApi\bin\Debug\net5.0\runtimes\win-x64\nativ
 C:\Users\User\source\repos\SimApi\BapApi\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\User\source\repos\SimApi\BapApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\User\source\repos\SimApi\BapApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\User\source\repos\SimApi\BapApi\obj\Debug\net5.0\BapApi.csprojAssemblyReference.cache
 C:\Users\User\source\repos\SimApi\BapApi\obj\Debug\net5.0\BapApi.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\User\source\repos\SimApi\BapApi\obj\Debug\net5.0\BapApi.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\SimApi\BapApi\obj\Debug\net5.0\BapApi.AssemblyInfo.cs
@@ -448,3 +447,4 @@ C:\Users\User\source\repos\SimApi\BapApi\obj\Debug\net5.0\BapApi.dll
 C:\Users\User\source\repos\SimApi\BapApi\obj\Debug\net5.0\ref\BapApi.dll
 C:\Users\User\source\repos\SimApi\BapApi\obj\Debug\net5.0\BapApi.pdb
 C:\Users\User\source\repos\SimApi\BapApi\obj\Debug\net5.0\BapApi.genruntimeconfig.cache
+C:\Users\User\source\repos\SimApi\BapApi\obj\Debug\net5.0\BapApi.csproj.AssemblyReference.cache
