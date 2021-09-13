@@ -1,5 +1,13 @@
 # BapApiSqlite
 
+## Audience
+
+* Belfast Met
+* Microsoft Modern Applications Development 2 Academy
+* July 2021
+* Student use during the Client Simulation
+* The project does not provide code solutions for the client simulation, just helper text.
+
 ## Overview
 
 This is a simple Visual Studio API Project for the Belfast Met Microsoft Academy.
